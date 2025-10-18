@@ -4,6 +4,13 @@ Welcome to my 45-day journey as a Cloud & DevOps Engineer at Elevate Labs. This 
 
 ---
 
+## 🚀 DevOps in Motion
+
+![Cloud DevOps Animation](https://mir-s3-cdn-cf.behance.net/project_modules/hd/ebf84d157316295.63767b18bec82.gif)
+
+This animation reflects my passion to show the light into the devops and cloud journey.
+
+
 ## 🎯 Internship Goals
 
 - ✅ Deliver production-grade automation and infrastructure solutions
