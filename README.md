@@ -95,6 +95,12 @@ Managing configuration and provisioning with simple, powerful playbooks for scal
 ![Terraform GIF](https://cdn.hashnode.com/res/hashnode/image/upload/v1654533973941/efCkeGx-2.gif?w=500&h=262&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)  
 Defining infrastructure as code for reproducible, scalable, and secure cloud deployments.
 
+### 🐹 Go (Golang)
+![Golang GIF](https://miro.medium.com/v2/resize:fit:1358/0*MDhRbnOF0a4QVVNc.gif)
+
+Go (or Golang) is an open-source programming language designed for simplicity, reliability, and efficiency.  
+It enables developers to build **scalable**, **high-performance**, and **concurrent** applications effortlessly. 🚀  
+
 
 ---
 ## 🧠 Why This Stack?
